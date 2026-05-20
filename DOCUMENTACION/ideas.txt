@@ -1,0 +1,39 @@
+## Funciones principales
+- Recordar tareas y deberes pendientes
+- Mostrar fechas de entrega
+- Enviar notificaciones para estudiar
+- Organizar materias y horarios
+- Conectar con plataformas de estudio
+- Mostrar actividades completas e incompletas
+- Crear recordatorios para exámenes y proyectos
+
+## Ventajas
+- Organiza mejor el tiempo
+- Reduce olvidos de tareas y fechas
+- Facilita el seguimiento académico
+- Mejora la productividad y hábitos de estudio
+- Toda la información en un solo lugar
+- Fácil y accesible
+
+## Mejoras futuras
+- IA para recomendar horarios de estudio
+- Modo oscuro y personalización de colores
+- Sincronización con Google Calendar
+- Chat grupal para trabajos en equipo
+- Estadísticas de rendimiento
+- Sistema de recompensas y metas
+- Disponible en Android, iOS y web
+
+## Descripción
+Se realizó el diseño inicial de StudyReminder, una aplicación móvil para organización de estudios y recordatorio de tareas. Se creó un repositorio en GitHub para el trabajo colaborativo.
+
+## Actividades realizadas
+1. Creación del repositorio en GitHub.
+2. Diseño inicial de la app (imagen dentro de marco de teléfono).
+3. Clonación del repositorio en Visual Studio Code.
+4. Organización de carpetas manual dentro del proyecto.
+
+## Herramientas utilizadas
+- GitHub
+- Visual Studio Code
+- Canva / Editor de imágenes
